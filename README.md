@@ -37,4 +37,4 @@ The workflow expects the data to be stored as follows:
 
 ## Notebook
 
-The `spring_indices.ipynb` demonstrates the usage of the above described functions.
+The `spring_indices.ipynb` notebook demonstrates the usage of the above described functions.
