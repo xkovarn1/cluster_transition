@@ -3,6 +3,8 @@
 `cluster_transition.py` provides a full workflow for **spatiotemporal clustering and transition analysis** using a multi-decadal 1 km gridded database of continental-scale spring onset products.  
 It uses **xarray**, **rioxarray**, **scikit-learn**, and **matplotlib** to cluster derived indices and analyze how spatial patterns evolve across time.
 
+[View the presentation (PDF)](cluster_maps.pdf)
+
 The links to the data:
 * Dataset description: https://www.nature.com/articles/s41597-024-03710-5
 * Dataset repo: https://data.4tu.nl/datasets/aca56a60-8fcc-45b5-b817-50b68d4b5c63
